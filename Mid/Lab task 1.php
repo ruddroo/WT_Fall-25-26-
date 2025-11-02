@@ -5,7 +5,7 @@
 <title> task1</title>
 </head>
  
-   <body style="background-color: aquamarine;"></body>
+   <body style="background-color: aquamarine;">
    
 <center>
 <h1>Clinic Patient Registration</h1>
