@@ -49,10 +49,8 @@ function reg()
         errorDiv.innerHTML = "Password not matched";
         return false;}
 
-        if(){}
-
-
-       outputDiv.innerHTML = `
+         
+    outputDiv.innerHTML = `
         <strong>Registration Complete!</strong><br><br>
         Name: ${name}<br>
         Email: ${email}<br>
