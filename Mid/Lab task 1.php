@@ -10,7 +10,7 @@
 <center>
 <h1>Clinic Patient Registration</h1>
  
-<table style="padding: 40px;border: 2px ;backgroud-color: white;background-color: lightgray">
+<table style="padding: 40px;border: 2px ;background-color: lightgray">
 <tr>
     <td style="padding:10px;">
      Enter Your Name:
@@ -36,7 +36,7 @@
 </td>
 
 <td >
-   <input type="text">  
+   <input type="number">  
 </td>
 </tr>
 
@@ -46,7 +46,7 @@
 </td>
 
 <td >
-   <input type="text">  
+   <input type="email">  
 </td>
 </tr>
 
@@ -80,7 +80,7 @@
 
  <h2>Additional Information</h2>
 
- <table style="padding: 40px;border: 2px ;backgroud-color: white;background-color: lightgray">
+ <table style="padding: 40px;border: 2px ;background-color: lightgray">
  
 <tr>
     <td style="padding:10px;">
@@ -97,7 +97,7 @@
    Password:
 </td>
 <td>
-   <input type="text">   
+   <input type="password">   
 </td>
 </tr>
 
@@ -107,7 +107,7 @@
 </td>
 
 <td >
-   <input type="text">  
+   <input type="password">  
 </td>
 </tr>
  
